@@ -1,0 +1,7 @@
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Testing14\bin\Debug\Testing14.exe.config
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Testing14\bin\Debug\Testing14.exe
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Testing14\bin\Debug\Testing14.pdb
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Testing14\obj\Debug\Testing14.csproj.AssemblyReference.cache
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Testing14\obj\Debug\Testing14.csproj.CoreCompileInputs.cache
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Testing14\obj\Debug\Testing14.exe
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Testing14\obj\Debug\Testing14.pdb

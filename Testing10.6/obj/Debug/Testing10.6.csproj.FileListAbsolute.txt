@@ -1,0 +1,7 @@
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Testing10\Testing10.6\bin\Debug\Testing10.6.exe.config
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Testing10\Testing10.6\bin\Debug\Testing10.6.exe
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Testing10\Testing10.6\bin\Debug\Testing10.6.pdb
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Testing10\Testing10.6\obj\Debug\Testing10.6.csproj.AssemblyReference.cache
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Testing10\Testing10.6\obj\Debug\Testing10.6.csproj.CoreCompileInputs.cache
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Testing10\Testing10.6\obj\Debug\Testing10.6.exe
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Testing10\Testing10.6\obj\Debug\Testing10.6.pdb

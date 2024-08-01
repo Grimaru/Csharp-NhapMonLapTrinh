@@ -1,0 +1,7 @@
+D:\Thời kì tăm tối\Thực hành Nhập môn lập trình (C#) (At home)\Testing1\Testing1\bin\Debug\Testing1.exe.config
+D:\Thời kì tăm tối\Thực hành Nhập môn lập trình (C#) (At home)\Testing1\Testing1\bin\Debug\Testing1.exe
+D:\Thời kì tăm tối\Thực hành Nhập môn lập trình (C#) (At home)\Testing1\Testing1\bin\Debug\Testing1.pdb
+D:\Thời kì tăm tối\Thực hành Nhập môn lập trình (C#) (At home)\Testing1\Testing1\obj\Debug\Testing1.csproj.AssemblyReference.cache
+D:\Thời kì tăm tối\Thực hành Nhập môn lập trình (C#) (At home)\Testing1\Testing1\obj\Debug\Testing1.csproj.CoreCompileInputs.cache
+D:\Thời kì tăm tối\Thực hành Nhập môn lập trình (C#) (At home)\Testing1\Testing1\obj\Debug\Testing1.exe
+D:\Thời kì tăm tối\Thực hành Nhập môn lập trình (C#) (At home)\Testing1\Testing1\obj\Debug\Testing1.pdb

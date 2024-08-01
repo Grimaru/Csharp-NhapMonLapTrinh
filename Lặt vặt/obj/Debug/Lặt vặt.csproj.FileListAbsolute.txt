@@ -1,0 +1,7 @@
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Lặt vặt\obj\Debug\Lặt vặt.csproj.AssemblyReference.cache
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Lặt vặt\obj\Debug\Lặt vặt.csproj.CoreCompileInputs.cache
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Lặt vặt\bin\Debug\Lặt vặt.exe.config
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Lặt vặt\bin\Debug\Lặt vặt.exe
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Lặt vặt\bin\Debug\Lặt vặt.pdb
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Lặt vặt\obj\Debug\Lặt vặt.exe
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Lặt vặt\obj\Debug\Lặt vặt.pdb

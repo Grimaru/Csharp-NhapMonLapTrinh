@@ -1,0 +1,7 @@
+D:\Thời kì tăm tối\Thực hành Nhập môn lập trình (C#) (At home)\Testing\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Thời kì tăm tối\Thực hành Nhập môn lập trình (C#) (At home)\Testing\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Thời kì tăm tối\Thực hành Nhập môn lập trình (C#) (At home)\Testing\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Thời kì tăm tối\Thực hành Nhập môn lập trình (C#) (At home)\Testing\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Thời kì tăm tối\Thực hành Nhập môn lập trình (C#) (At home)\Testing\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Thời kì tăm tối\Thực hành Nhập môn lập trình (C#) (At home)\Testing\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Thời kì tăm tối\Thực hành Nhập môn lập trình (C#) (At home)\Testing\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

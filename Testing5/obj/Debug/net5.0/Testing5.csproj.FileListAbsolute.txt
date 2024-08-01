@@ -1,0 +1,16 @@
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Testing5\bin\Debug\net5.0\Testing5.exe
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Testing5\bin\Debug\net5.0\Testing5.deps.json
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Testing5\bin\Debug\net5.0\Testing5.runtimeconfig.json
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Testing5\bin\Debug\net5.0\Testing5.runtimeconfig.dev.json
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Testing5\bin\Debug\net5.0\Testing5.dll
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Testing5\bin\Debug\net5.0\ref\Testing5.dll
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Testing5\bin\Debug\net5.0\Testing5.pdb
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Testing5\obj\Debug\net5.0\Testing5.csproj.AssemblyReference.cache
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Testing5\obj\Debug\net5.0\Testing5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Testing5\obj\Debug\net5.0\Testing5.AssemblyInfoInputs.cache
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Testing5\obj\Debug\net5.0\Testing5.AssemblyInfo.cs
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Testing5\obj\Debug\net5.0\Testing5.csproj.CoreCompileInputs.cache
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Testing5\obj\Debug\net5.0\Testing5.dll
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Testing5\obj\Debug\net5.0\ref\Testing5.dll
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Testing5\obj\Debug\net5.0\Testing5.pdb
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Testing5\obj\Debug\net5.0\Testing5.genruntimeconfig.cache

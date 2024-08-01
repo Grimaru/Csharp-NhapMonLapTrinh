@@ -1,0 +1,6 @@
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Testing15\Testing15.3\bin\Debug\Testing15.3.exe.config
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Testing15\Testing15.3\bin\Debug\Testing15.3.exe
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Testing15\Testing15.3\bin\Debug\Testing15.3.pdb
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Testing15\Testing15.3\obj\Debug\Testing15.3.csproj.CoreCompileInputs.cache
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Testing15\Testing15.3\obj\Debug\Testing15.3.exe
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Testing15\Testing15.3\obj\Debug\Testing15.3.pdb

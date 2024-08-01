@@ -1,0 +1,16 @@
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Testing7\Testing7.1\bin\Debug\net5.0\Testing7.1.exe
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Testing7\Testing7.1\bin\Debug\net5.0\Testing7.1.deps.json
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Testing7\Testing7.1\bin\Debug\net5.0\Testing7.1.runtimeconfig.json
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Testing7\Testing7.1\bin\Debug\net5.0\Testing7.1.runtimeconfig.dev.json
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Testing7\Testing7.1\bin\Debug\net5.0\Testing7.1.dll
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Testing7\Testing7.1\bin\Debug\net5.0\ref\Testing7.1.dll
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Testing7\Testing7.1\bin\Debug\net5.0\Testing7.1.pdb
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Testing7\Testing7.1\obj\Debug\net5.0\Testing7.1.csproj.AssemblyReference.cache
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Testing7\Testing7.1\obj\Debug\net5.0\Testing7.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Testing7\Testing7.1\obj\Debug\net5.0\Testing7.1.AssemblyInfoInputs.cache
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Testing7\Testing7.1\obj\Debug\net5.0\Testing7.1.AssemblyInfo.cs
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Testing7\Testing7.1\obj\Debug\net5.0\Testing7.1.csproj.CoreCompileInputs.cache
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Testing7\Testing7.1\obj\Debug\net5.0\Testing7.1.dll
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Testing7\Testing7.1\obj\Debug\net5.0\ref\Testing7.1.dll
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Testing7\Testing7.1\obj\Debug\net5.0\Testing7.1.pdb
+D:\Basic Coding (home)\Thực hành Nhập môn lập trình (C#) (At home)\Testing7\Testing7.1\obj\Debug\net5.0\Testing7.1.genruntimeconfig.cache
